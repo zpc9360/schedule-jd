@@ -7,7 +7,6 @@
 
 使用这款软件在结合社区**各路大神**提供的脚本可以解锁非常多神奇的功能，自动签到便是其中的一个。
 
-![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/20201231173557.png)
 
 
 
